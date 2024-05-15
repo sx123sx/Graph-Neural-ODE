@@ -1,6 +1,6 @@
 # 图神经常微分方程综述
 &emsp;&emsp;本文根据静态图、离散动态图和连续动态图等不同类型图的特点，将相关工作分为静态图神经ODE、离散动态图神经ODE以及连续动态图神经ODE．根据ODE所发挥的不同作用，将连续动态图神经ODE分为作为编码器和作为推断器的两类．根据图神经ODE的阶数将静态图神经ODE分为一阶静态图神经ODE和二阶静态图神经ODE．此外，根据适用的场景不同，本文将离散动态图神经ODE分为时空图神经ODE和多智能体神经ODE．本文提出的图神经ODE方法分类体系如图1所示．<br />
-
+<img src="图神经常微分方程分类学.jpg" width="67%" alt="图神经常微分方程分类学">
 ## 静态图神经ODE 
 1. Xhonneux L P, Qu M, Tang J. Continuous graph neural networks[C]//International conference on machine learning. PMLR, 2020: 10432-10441.[论文](https://proceedings.mlr.press/v119/xhonneux20a/xhonneux20a.pdf) [代码](https://github.com/DeepGraphLearning/ContinuousGNN)
 2. Poli M, Massaroli S, Park J, et al. Graph neural ordinary differential equations[J]. arXiv preprint arXiv:1911.07532, 2019. [论文](https://arxiv.org/pdf/1911.07532.pdf) [代码](https://github.com/Zymrael/gde)
