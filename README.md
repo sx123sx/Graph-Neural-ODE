@@ -9,7 +9,7 @@ ODE 的阶数将静态图神经 ODE 分为一阶静态图神
 场景不同，将离散动态图神经 ODE 分为时空图神经
 ODE 和多智能体神经 ODE. 本文提出的图神经 ODE
 方法分类体系如图 1 所示.<br />
-<img src="图神经常微分方程分类学.png" width="100%" alt="图神经常微分方程分类学">   
+<img src="[图神经常微分方程分类学.png](https://github.com/sx123sx/Graph-Neural-ODE/blob/main/%E5%9B%BE%E7%A5%9E%E7%BB%8F%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%88%86%E7%B1%BB%E5%AD%A6.png)" width="100%" alt="图神经常微分方程分类学">   
 ## 静态图神经ODE 
 1. Xhonneux L P, Qu M, Tang J. Continuous graph neural networks[C]//International conference on machine learning. PMLR, 2020: 10432-10441.[论文](https://proceedings.mlr.press/v119/xhonneux20a/xhonneux20a.pdf) [代码](https://github.com/DeepGraphLearning/ContinuousGNN)
 2. Poli M, Massaroli S, Park J, et al. Graph neural ordinary differential equations[J]. arXiv preprint arXiv:1911.07532, 2019. [论文](https://arxiv.org/pdf/1911.07532.pdf) [代码](https://github.com/Zymrael/gde)
